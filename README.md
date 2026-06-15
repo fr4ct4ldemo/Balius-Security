@@ -243,7 +243,7 @@ Balius ships with a full web dashboard — manage every setting without typing a
 
 ## 🖥️ Console
 
-![Console Preview](https://github.com/user-attachments/assets/2a627607-8073-4be7-aa55-e8546792e4a6)
+![Console Preview](https://github.com/user-attachments/assets/a819fd2e-549f-4c45-b330-ebeb2fbc0057)
 
 ---
 
