@@ -1,6 +1,6 @@
 <div align="center">
 
-![Balius Console](https://github.com/user-attachments/assets/2a627607-8073-4be7-aa55-e8546792e4a6)
+![Balius Console](https://github.com/user-attachments/assets/a819fd2e-549f-4c45-b330-ebeb2fbc0057)
 
 # Balius
 
@@ -18,7 +18,7 @@
 
 ## 🌐 Dashboard
 
-![Dashboard Landing](https://github.com/user-attachments/assets/f8e220ae-a224-486f-86ed-c5455e5b37d4)
+![Dashboard Landing](https://github.com/user-attachments/assets/902a4556-4500-4099-afa9-bfaad473f54c)
 
 Balius ships with a full web dashboard — manage every setting without typing a single command.
 
