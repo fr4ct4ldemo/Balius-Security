@@ -276,7 +276,7 @@ npm run deploy
 npm start
 ```
 
-**5. Open the dashboard** → `http://localhost:3000`
+**5. Open the dashboard** → `http://localhost:1121`
 
 ---
 
