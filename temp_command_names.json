@@ -1,0 +1,1042 @@
+[
+  {
+    "file": "commands\\config\\autorole.js",
+    "name": "autorole"
+  },
+  {
+    "file": "commands\\config\\blacklist.js",
+    "name": "blacklist"
+  },
+  {
+    "file": "commands\\config\\resetconfig.js",
+    "name": "resetconfig"
+  },
+  {
+    "file": "commands\\config\\setadminrole.js",
+    "name": "setadminrole"
+  },
+  {
+    "file": "commands\\config\\setappealchannel.js",
+    "name": "setappealchannel"
+  },
+  {
+    "file": "commands\\config\\setdmnotify.js",
+    "name": "setdmnotify"
+  },
+  {
+    "file": "commands\\config\\setjailrole.js",
+    "name": "setjailrole"
+  },
+  {
+    "file": "commands\\config\\setlanguage.js",
+    "name": "setlanguage"
+  },
+  {
+    "file": "commands\\config\\setlogchannel.js",
+    "name": "setlogchannel"
+  },
+  {
+    "file": "commands\\config\\setmodrole.js",
+    "name": "setmodrole"
+  },
+  {
+    "file": "commands\\config\\setmutedrole.js",
+    "name": "setmutedrole"
+  },
+  {
+    "file": "commands\\config\\setprefix.js",
+    "name": "setprefix"
+  },
+  {
+    "file": "commands\\config\\settings.js",
+    "name": "settings"
+  },
+  {
+    "file": "commands\\config\\togglemodules.js",
+    "name": "togglemodules"
+  },
+  {
+    "file": "commands\\config\\verification.js",
+    "name": "verification"
+  },
+  {
+    "file": "commands\\config\\viewconfig.js",
+    "name": "viewconfig"
+  },
+  {
+    "file": "commands\\config\\whitelist.js",
+    "name": "whitelist"
+  },
+  {
+    "file": "commands\\logging\\clearlog.js",
+    "name": "clearlog"
+  },
+  {
+    "file": "commands\\logging\\ignorechannel.js",
+    "name": "ignorechannel"
+  },
+  {
+    "file": "commands\\logging\\setautomodlog.js",
+    "name": "setautomodlog"
+  },
+  {
+    "file": "commands\\logging\\setbanlog.js",
+    "name": "setbanlog"
+  },
+  {
+    "file": "commands\\logging\\setboostlog.js",
+    "name": "setboostlog"
+  },
+  {
+    "file": "commands\\logging\\setembedlog.js",
+    "name": "setembedlog"
+  },
+  {
+    "file": "commands\\logging\\setinvitelog.js",
+    "name": "setinvitelog"
+  },
+  {
+    "file": "commands\\logging\\setjoinlog.js",
+    "name": "setjoinlog"
+  },
+  {
+    "file": "commands\\logging\\setleavelog.js",
+    "name": "setleavelog"
+  },
+  {
+    "file": "commands\\logging\\setlog.js",
+    "name": "setlog"
+  },
+  {
+    "file": "commands\\logging\\setmessagelog.js",
+    "name": "setmessagelog"
+  },
+  {
+    "file": "commands\\logging\\setmodlog.js",
+    "name": "setmodlog"
+  },
+  {
+    "file": "commands\\logging\\setrolelog.js",
+    "name": "setrolelog"
+  },
+  {
+    "file": "commands\\logging\\setserverlog.js",
+    "name": "setserverlog"
+  },
+  {
+    "file": "commands\\logging\\settimeoutlog.js",
+    "name": "settimeoutlog"
+  },
+  {
+    "file": "commands\\logging\\setvoicelog.js",
+    "name": "setvoicelog"
+  },
+  {
+    "file": "commands\\logging\\viewlogs.js",
+    "name": "viewlogs"
+  },
+  {
+    "file": "commands\\moderation\\addnote.js",
+    "name": "addnote"
+  },
+  {
+    "file": "commands\\moderation\\announce.js",
+    "name": "announce"
+  },
+  {
+    "file": "commands\\moderation\\appeal.js",
+    "name": "appeal"
+  },
+  {
+    "file": "commands\\moderation\\auditlog.js",
+    "name": "auditlog"
+  },
+  {
+    "file": "commands\\moderation\\ban.js",
+    "name": "ban"
+  },
+  {
+    "file": "commands\\moderation\\case.js",
+    "name": "case"
+  },
+  {
+    "file": "commands\\moderation\\clearwarnings.js",
+    "name": "clearwarnings"
+  },
+  {
+    "file": "commands\\moderation\\deafen.js",
+    "name": "deafen"
+  },
+  {
+    "file": "commands\\moderation\\dehoist.js",
+    "name": "dehoist"
+  },
+  {
+    "file": "commands\\moderation\\deletenote.js",
+    "name": "deletenote"
+  },
+  {
+    "file": "commands\\moderation\\forceban.js",
+    "name": "forceban"
+  },
+  {
+    "file": "commands\\moderation\\hackban.js",
+    "name": "hackban"
+  },
+  {
+    "file": "commands\\moderation\\history.js",
+    "name": "history"
+  },
+  {
+    "file": "commands\\moderation\\idban.js",
+    "name": "idban"
+  },
+  {
+    "file": "commands\\moderation\\kick.js",
+    "name": "kick"
+  },
+  {
+    "file": "commands\\moderation\\lock.js",
+    "name": "lock"
+  },
+  {
+    "file": "commands\\moderation\\massban.js",
+    "name": "massban"
+  },
+  {
+    "file": "commands\\moderation\\masskick.js",
+    "name": "masskick"
+  },
+  {
+    "file": "commands\\moderation\\modstats.js",
+    "name": "modstats"
+  },
+  {
+    "file": "commands\\moderation\\mute.js",
+    "name": "mute"
+  },
+  {
+    "file": "commands\\moderation\\nick.js",
+    "name": "nick"
+  },
+  {
+    "file": "commands\\moderation\\note.js",
+    "name": "note"
+  },
+  {
+    "file": "commands\\moderation\\pinmessage.js",
+    "name": "pinmessage"
+  },
+  {
+    "file": "commands\\moderation\\purge.js",
+    "name": "purge"
+  },
+  {
+    "file": "commands\\moderation\\reason.js",
+    "name": "reason"
+  },
+  {
+    "file": "commands\\moderation\\role.js",
+    "name": "role"
+  },
+  {
+    "file": "commands\\moderation\\slowmode.js",
+    "name": "slowmode"
+  },
+  {
+    "file": "commands\\moderation\\softban.js",
+    "name": "softban"
+  },
+  {
+    "file": "commands\\moderation\\strip.js",
+    "name": "strip"
+  },
+  {
+    "file": "commands\\moderation\\tempban.js",
+    "name": "tempban"
+  },
+  {
+    "file": "commands\\moderation\\tempmute.js",
+    "name": "tempmute"
+  },
+  {
+    "file": "commands\\moderation\\temprole.js",
+    "name": "temprole"
+  },
+  {
+    "file": "commands\\moderation\\timeout.js",
+    "name": "timeout"
+  },
+  {
+    "file": "commands\\moderation\\unban.js",
+    "name": "unban"
+  },
+  {
+    "file": "commands\\moderation\\undeafen.js",
+    "name": "undeafen"
+  },
+  {
+    "file": "commands\\moderation\\unlock.js",
+    "name": "unlock"
+  },
+  {
+    "file": "commands\\moderation\\unmute.js",
+    "name": "unmute"
+  },
+  {
+    "file": "commands\\moderation\\unpinmessage.js",
+    "name": "unpinmessage"
+  },
+  {
+    "file": "commands\\moderation\\untimeout.js",
+    "name": "untimeout"
+  },
+  {
+    "file": "commands\\moderation\\unvoiceban.js",
+    "name": "unvoiceban"
+  },
+  {
+    "file": "commands\\moderation\\userinfo.js",
+    "name": "moduserinfo"
+  },
+  {
+    "file": "commands\\moderation\\viewnotes.js",
+    "name": "viewnotes"
+  },
+  {
+    "file": "commands\\moderation\\voiceban.js",
+    "name": "voiceban"
+  },
+  {
+    "file": "commands\\moderation\\voicekick.js",
+    "name": "voicekick"
+  },
+  {
+    "file": "commands\\moderation\\voicemute.js",
+    "name": "voicemute"
+  },
+  {
+    "file": "commands\\moderation\\voiceunmute.js",
+    "name": "voiceunmute"
+  },
+  {
+    "file": "commands\\moderation\\warn.js",
+    "name": "warn"
+  },
+  {
+    "file": "commands\\moderation\\warnings.js",
+    "name": "warnings"
+  },
+  {
+    "file": "commands\\moderation\\warnpunishment.js",
+    "name": "warnpunishment"
+  },
+  {
+    "file": "commands\\moderation\\watchlist.js",
+    "name": "watchlist"
+  },
+  {
+    "file": "commands\\security\\abuse.js",
+    "name": "abuse"
+  },
+  {
+    "file": "commands\\security\\adminaudit.js",
+    "name": "adminaudit"
+  },
+  {
+    "file": "commands\\security\\alertchannel.js",
+    "name": "alertchannel"
+  },
+  {
+    "file": "commands\\security\\alt.js",
+    "name": "alt"
+  },
+  {
+    "file": "commands\\security\\antihoisting.js",
+    "name": "antihoisting"
+  },
+  {
+    "file": "commands\\security\\antimod.js",
+    "name": "antimod"
+  },
+  {
+    "file": "commands\\security\\antinuke.js",
+    "name": "antinuke"
+  },
+  {
+    "file": "commands\\security\\automod.js",
+    "name": "automod"
+  },
+  {
+    "file": "commands\\security\\backupsettings.js",
+    "name": "backupsettings"
+  },
+  {
+    "file": "commands\\security\\botaudit.js",
+    "name": "botaudit"
+  },
+  {
+    "file": "commands\\security\\botprotect.js",
+    "name": "botprotect"
+  },
+  {
+    "file": "commands\\security\\burstdetect.js",
+    "name": "burstdetect"
+  },
+  {
+    "file": "commands\\security\\captchagate.js",
+    "name": "captchagate"
+  },
+  {
+    "file": "commands\\security\\channellock.js",
+    "name": "channellock"
+  },
+  {
+    "file": "commands\\security\\channelsec.js",
+    "name": "channelsec"
+  },
+  {
+    "file": "commands\\security\\channeltools.js",
+    "name": "channeltools"
+  },
+  {
+    "file": "commands\\security\\dangerousperms.js",
+    "name": "dangerousperms"
+  },
+  {
+    "file": "commands\\security\\dupemessage.js",
+    "name": "dupemessage"
+  },
+  {
+    "file": "commands\\security\\emergency.js",
+    "name": "emergency"
+  },
+  {
+    "file": "commands\\security\\filter.js",
+    "name": "filter"
+  },
+  {
+    "file": "commands\\security\\filteredlog.js",
+    "name": "filteredlog"
+  },
+  {
+    "file": "commands\\security\\flag.js",
+    "name": "flag"
+  },
+  {
+    "file": "commands\\security\\flood.js",
+    "name": "flood"
+  },
+  {
+    "file": "commands\\security\\ghostping.js",
+    "name": "ghostping"
+  },
+  {
+    "file": "commands\\security\\honeypot.js",
+    "name": "honeypot"
+  },
+  {
+    "file": "commands\\security\\imagespam.js",
+    "name": "imagespam"
+  },
+  {
+    "file": "commands\\security\\importfilter.js",
+    "name": "importfilter"
+  },
+  {
+    "file": "commands\\security\\incident.js",
+    "name": "incident"
+  },
+  {
+    "file": "commands\\security\\integritycheck.js",
+    "name": "integritycheck"
+  },
+  {
+    "file": "commands\\security\\invitelog.js",
+    "name": "invitelog"
+  },
+  {
+    "file": "commands\\security\\invitewhitelist.js",
+    "name": "invitewhitelist"
+  },
+  {
+    "file": "commands\\security\\join.js",
+    "name": "join"
+  },
+  {
+    "file": "commands\\security\\joinsecurity.js",
+    "name": "joinsecurity"
+  },
+  {
+    "file": "commands\\security\\linkfilter.js",
+    "name": "linkfilter"
+  },
+  {
+    "file": "commands\\security\\linkman.js",
+    "name": "linkman"
+  },
+  {
+    "file": "commands\\security\\lockdown.js",
+    "name": "lockdown"
+  },
+  {
+    "file": "commands\\security\\massmention.js",
+    "name": "massmention"
+  },
+  {
+    "file": "commands\\security\\mentionlog.js",
+    "name": "mentionlog"
+  },
+  {
+    "file": "commands\\security\\mutebypass.js",
+    "name": "mutebypass"
+  },
+  {
+    "file": "commands\\security\\newaccountfilter.js",
+    "name": "newaccountfilter"
+  },
+  {
+    "file": "commands\\security\\nuke.js",
+    "name": "nuke"
+  },
+  {
+    "file": "commands\\security\\nukeadmin.js",
+    "name": "nukeadmin"
+  },
+  {
+    "file": "commands\\security\\permmanage.js",
+    "name": "permmanage"
+  },
+  {
+    "file": "commands\\security\\perms.js",
+    "name": "perms"
+  },
+  {
+    "file": "commands\\security\\phishingfilter.js",
+    "name": "phishingfilter"
+  },
+  {
+    "file": "commands\\security\\quarantine.js",
+    "name": "quarantine"
+  },
+  {
+    "file": "commands\\security\\raid.js",
+    "name": "raid"
+  },
+  {
+    "file": "commands\\security\\raidcontrol.js",
+    "name": "raidcontrol"
+  },
+  {
+    "file": "commands\\security\\regex.js",
+    "name": "regex"
+  },
+  {
+    "file": "commands\\security\\removebypass.js",
+    "name": "removebypass"
+  },
+  {
+    "file": "commands\\security\\rolesave.js",
+    "name": "rolesave"
+  },
+  {
+    "file": "commands\\security\\scanuser.js",
+    "name": "scanuser"
+  },
+  {
+    "file": "commands\\security\\securityalert.js",
+    "name": "securityalert"
+  },
+  {
+    "file": "commands\\security\\securityreport.js",
+    "name": "securityreport"
+  },
+  {
+    "file": "commands\\security\\slowmodechannel.js",
+    "name": "slowmodechannel"
+  },
+  {
+    "file": "commands\\security\\softlockdown.js",
+    "name": "softlockdown"
+  },
+  {
+    "file": "commands\\security\\spam.js",
+    "name": "spam"
+  },
+  {
+    "file": "commands\\security\\stickymute.js",
+    "name": "stickymute"
+  },
+  {
+    "file": "commands\\security\\threatlog.js",
+    "name": "threatlog"
+  },
+  {
+    "file": "commands\\security\\tokenblocker.js",
+    "name": "tokenblocker"
+  },
+  {
+    "file": "commands\\security\\trustedroles.js",
+    "name": "trustedroles"
+  },
+  {
+    "file": "commands\\security\\unverifiedlist.js",
+    "name": "unverifiedlist"
+  },
+  {
+    "file": "commands\\security\\verification.js",
+    "name": "serverlevel"
+  },
+  {
+    "file": "commands\\security\\verify.js",
+    "name": "verify"
+  },
+  {
+    "file": "commands\\security\\wordfilter.js",
+    "name": "wordfilter"
+  },
+  {
+    "file": "commands\\security\\zalgofilter.js",
+    "name": "zalgofilter"
+  },
+  {
+    "file": "commands\\utility\\avatar.js",
+    "name": "avatar"
+  },
+  {
+    "file": "commands\\utility\\botinfo.js",
+    "name": "botinfo"
+  },
+  {
+    "file": "commands\\utility\\channelinfo.js",
+    "name": "channelinfo"
+  },
+  {
+    "file": "commands\\utility\\firstmessage.js",
+    "name": "firstmessage"
+  },
+  {
+    "file": "commands\\utility\\help.js",
+    "name": "help"
+  },
+  {
+    "file": "commands\\utility\\inviteinfo.js",
+    "name": "inviteinfo"
+  },
+  {
+    "file": "commands\\utility\\membercount.js",
+    "name": "membercount"
+  },
+  {
+    "file": "commands\\utility\\permissions.js",
+    "name": "permissions"
+  },
+  {
+    "file": "commands\\utility\\ping.js",
+    "name": "ping"
+  },
+  {
+    "file": "commands\\utility\\poll.js",
+    "name": "poll"
+  },
+  {
+    "file": "commands\\utility\\remind.js",
+    "name": "remind"
+  },
+  {
+    "file": "commands\\utility\\roleinfo.js",
+    "name": "roleinfo"
+  },
+  {
+    "file": "commands\\utility\\serverinfo.js",
+    "name": "serverinfo"
+  },
+  {
+    "file": "commands\\utility\\snipe.js",
+    "name": "snipe"
+  },
+  {
+    "file": "commands\\utility\\uptime.js",
+    "name": "uptime"
+  },
+  {
+    "file": "commands\\utility\\userinfo.js",
+    "name": "userinfo"
+  },
+  {
+    "file": "commands\\_legacy\\security\\accountagegate.js",
+    "name": "accountagegate"
+  },
+  {
+    "file": "commands\\_legacy\\security\\agecheck.js",
+    "name": "agecheck"
+  },
+  {
+    "file": "commands\\_legacy\\security\\altlink.js",
+    "name": "altlink"
+  },
+  {
+    "file": "commands\\_legacy\\security\\altlist.js",
+    "name": "altlist"
+  },
+  {
+    "file": "commands\\_legacy\\security\\altscan.js",
+    "name": "altscan"
+  },
+  {
+    "file": "commands\\_legacy\\security\\altunlink.js",
+    "name": "altunlink"
+  },
+  {
+    "file": "commands\\_legacy\\security\\antialt.js",
+    "name": "antialt"
+  },
+  {
+    "file": "commands\\_legacy\\security\\anticaps.js",
+    "name": "anticaps"
+  },
+  {
+    "file": "commands\\_legacy\\security\\antiemoji.js",
+    "name": "antiemoji"
+  },
+  {
+    "file": "commands\\_legacy\\security\\antihoisting.js",
+    "name": "antihoisting"
+  },
+  {
+    "file": "commands\\_legacy\\security\\antiinvite.js",
+    "name": "antiinvite"
+  },
+  {
+    "file": "commands\\_legacy\\security\\antilink.js",
+    "name": "antilink"
+  },
+  {
+    "file": "commands\\_legacy\\security\\antimentions.js",
+    "name": "antimentions"
+  },
+  {
+    "file": "commands\\_legacy\\security\\antinuke.js",
+    "name": "antinuke"
+  },
+  {
+    "file": "commands\\_legacy\\security\\antiphishing.js",
+    "name": "antiphishing"
+  },
+  {
+    "file": "commands\\_legacy\\security\\antiraid.js",
+    "name": "antiraid"
+  },
+  {
+    "file": "commands\\_legacy\\security\\antispam.js",
+    "name": "antispam"
+  },
+  {
+    "file": "commands\\_legacy\\security\\antiword.js",
+    "name": "antiword"
+  },
+  {
+    "file": "commands\\_legacy\\security\\antizalgo.js",
+    "name": "antizalgo"
+  },
+  {
+    "file": "commands\\_legacy\\security\\attachmentfilter.js",
+    "name": "attachmentfilter"
+  },
+  {
+    "file": "commands\\_legacy\\security\\botdetect.js",
+    "name": "botdetect"
+  },
+  {
+    "file": "commands\\_legacy\\security\\botgate.js",
+    "name": "botgate"
+  },
+  {
+    "file": "commands\\_legacy\\security\\botroleaudit.js",
+    "name": "botroleaudit"
+  },
+  {
+    "file": "commands\\_legacy\\security\\botscan.js",
+    "name": "botscan"
+  },
+  {
+    "file": "commands\\_legacy\\security\\channelclone.js",
+    "name": "channelclone"
+  },
+  {
+    "file": "commands\\_legacy\\security\\channellockdown.js",
+    "name": "channellockdown"
+  },
+  {
+    "file": "commands\\_legacy\\security\\channeloverview.js",
+    "name": "channeloverview"
+  },
+  {
+    "file": "commands\\_legacy\\security\\contentfilter.js",
+    "name": "contentfilter"
+  },
+  {
+    "file": "commands\\_legacy\\security\\dupemessage.js",
+    "name": "dupemessage"
+  },
+  {
+    "file": "commands\\_legacy\\security\\emergencylock.js",
+    "name": "emergencylock"
+  },
+  {
+    "file": "commands\\_legacy\\security\\emergencyunlock.js",
+    "name": "emergencyunlock"
+  },
+  {
+    "file": "commands\\_legacy\\security\\flaggedlist.js",
+    "name": "flaggedlist"
+  },
+  {
+    "file": "commands\\_legacy\\security\\flaguser.js",
+    "name": "flaguser"
+  },
+  {
+    "file": "commands\\_legacy\\security\\floodconfig.js",
+    "name": "floodconfig"
+  },
+  {
+    "file": "commands\\_legacy\\security\\floodgate.js",
+    "name": "floodgate"
+  },
+  {
+    "file": "commands\\_legacy\\security\\floodlog.js",
+    "name": "floodlog"
+  },
+  {
+    "file": "commands\\_legacy\\security\\ghostping.js",
+    "name": "ghostping"
+  },
+  {
+    "file": "commands\\_legacy\\security\\honeypot.js",
+    "name": "honeypot"
+  },
+  {
+    "file": "commands\\_legacy\\security\\imageonlymode.js",
+    "name": "imageonlymode"
+  },
+  {
+    "file": "commands\\_legacy\\security\\imagespam.js",
+    "name": "imagespam"
+  },
+  {
+    "file": "commands\\_legacy\\security\\importfilter.js",
+    "name": "importfilter"
+  },
+  {
+    "file": "commands\\_legacy\\security\\incidentlist.js",
+    "name": "incidentlist"
+  },
+  {
+    "file": "commands\\_legacy\\security\\incidentlog.js",
+    "name": "incidentlog"
+  },
+  {
+    "file": "commands\\_legacy\\security\\incidentview.js",
+    "name": "incidentview"
+  },
+  {
+    "file": "commands\\_legacy\\security\\joinreaction.js",
+    "name": "joinreaction"
+  },
+  {
+    "file": "commands\\_legacy\\security\\joinscan.js",
+    "name": "joinscan"
+  },
+  {
+    "file": "commands\\_legacy\\security\\joinspike.js",
+    "name": "joinspike"
+  },
+  {
+    "file": "commands\\_legacy\\security\\linkblacklist.js",
+    "name": "linkblacklist"
+  },
+  {
+    "file": "commands\\_legacy\\security\\linkcooldown.js",
+    "name": "linkcooldown"
+  },
+  {
+    "file": "commands\\_legacy\\security\\linklog.js",
+    "name": "linklog"
+  },
+  {
+    "file": "commands\\_legacy\\security\\linkscan.js",
+    "name": "linkscan"
+  },
+  {
+    "file": "commands\\_legacy\\security\\linkwhitelist.js",
+    "name": "linkwhitelist"
+  },
+  {
+    "file": "commands\\_legacy\\security\\lockdown.js",
+    "name": "lockdown"
+  },
+  {
+    "file": "commands\\_legacy\\security\\lockdownconfig.js",
+    "name": "lockdownconfig"
+  },
+  {
+    "file": "commands\\_legacy\\security\\lockdownlog.js",
+    "name": "lockdownlog"
+  },
+  {
+    "file": "commands\\_legacy\\security\\lockdownstatus.js",
+    "name": "lockdownstatus"
+  },
+  {
+    "file": "commands\\_legacy\\security\\mentionspam.js",
+    "name": "mentionspam"
+  },
+  {
+    "file": "commands\\_legacy\\security\\newaccountfilter.js",
+    "name": "newaccountfilter"
+  },
+  {
+    "file": "commands\\_legacy\\security\\newaccounts.js",
+    "name": "newaccounts"
+  },
+  {
+    "file": "commands\\_legacy\\security\\nukeblacklist.js",
+    "name": "nukeblacklist"
+  },
+  {
+    "file": "commands\\_legacy\\security\\nukeconfig.js",
+    "name": "nukeconfig"
+  },
+  {
+    "file": "commands\\_legacy\\security\\nukelog.js",
+    "name": "nukelog"
+  },
+  {
+    "file": "commands\\_legacy\\security\\nukeprotection.js",
+    "name": "nukeprotection"
+  },
+  {
+    "file": "commands\\_legacy\\security\\nukestatus.js",
+    "name": "nukestatus"
+  },
+  {
+    "file": "commands\\_legacy\\security\\nukewhitelist.js",
+    "name": "nukewhitelist"
+  },
+  {
+    "file": "commands\\_legacy\\security\\permaudit.js",
+    "name": "permaudit"
+  },
+  {
+    "file": "commands\\_legacy\\security\\permissionlock.js",
+    "name": "permissionlock"
+  },
+  {
+    "file": "commands\\_legacy\\security\\permlock.js",
+    "name": "permlock"
+  },
+  {
+    "file": "commands\\_legacy\\security\\permreset.js",
+    "name": "permreset"
+  },
+  {
+    "file": "commands\\_legacy\\security\\permrestore.js",
+    "name": "permrestore"
+  },
+  {
+    "file": "commands\\_legacy\\security\\permsnap.js",
+    "name": "permsnap"
+  },
+  {
+    "file": "commands\\_legacy\\security\\raidconfig.js",
+    "name": "raidconfig"
+  },
+  {
+    "file": "commands\\_legacy\\security\\raidhistory.js",
+    "name": "raidhistory"
+  },
+  {
+    "file": "commands\\_legacy\\security\\raidlog.js",
+    "name": "raidlog"
+  },
+  {
+    "file": "commands\\_legacy\\security\\raidmode.js",
+    "name": "raidmode"
+  },
+  {
+    "file": "commands\\_legacy\\security\\raidsuspend.js",
+    "name": "raidsuspend"
+  },
+  {
+    "file": "commands\\_legacy\\security\\reactionspam.js",
+    "name": "reactionspam"
+  },
+  {
+    "file": "commands\\_legacy\\security\\regexfilter.js",
+    "name": "regexfilter"
+  },
+  {
+    "file": "commands\\_legacy\\security\\regexlist.js",
+    "name": "regexlist"
+  },
+  {
+    "file": "commands\\_legacy\\security\\regexremove.js",
+    "name": "regexremove"
+  },
+  {
+    "file": "commands\\_legacy\\security\\requireverify.js",
+    "name": "requireverify"
+  },
+  {
+    "file": "commands\\_legacy\\security\\rolerestore.js",
+    "name": "rolerestore"
+  },
+  {
+    "file": "commands\\_legacy\\security\\rolesnapshot.js",
+    "name": "rolesnapshot"
+  },
+  {
+    "file": "commands\\_legacy\\security\\spamconfig.js",
+    "name": "spamconfig"
+  },
+  {
+    "file": "commands\\_legacy\\security\\spamexempt.js",
+    "name": "spamexempt"
+  },
+  {
+    "file": "commands\\_legacy\\security\\spamlog.js",
+    "name": "spamlog"
+  },
+  {
+    "file": "commands\\_legacy\\security\\suspiciouslink.js",
+    "name": "suspiciouslink"
+  },
+  {
+    "file": "commands\\_legacy\\security\\threadlock.js",
+    "name": "threadlock"
+  },
+  {
+    "file": "commands\\_legacy\\security\\unflaguser.js",
+    "name": "unflaguser"
+  },
+  {
+    "file": "commands\\_legacy\\security\\verifybypass.js",
+    "name": "verifybypass"
+  },
+  {
+    "file": "commands\\_legacy\\security\\verifylog.js",
+    "name": "verifylog"
+  },
+  {
+    "file": "commands\\_legacy\\security\\verifystatus.js",
+    "name": "verifystatus"
+  },
+  {
+    "file": "commands\\_legacy\\security\\webhookpurge.js",
+    "name": "webhookpurge"
+  },
+  {
+    "file": "commands\\_legacy\\spoofdetect.js",
+    "name": "spoofdetect"
+  }
+]
